@@ -1,3 +1,5 @@
-/**
- * Created by chaseweller on 3/6/17.
- */
+export default {
+  authors: [],
+  courses: [],
+  ajaxCallsInProgress: 0
+};
